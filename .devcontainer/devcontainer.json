@@ -13,7 +13,14 @@
     "vscode": {
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
-				"mongodb.mongodb-vscode"
+				"mongodb.mongodb-vscode",
+				"christian-kohler.npm-intellisense",
+				"eamodio.gitlens",
+				"msjsdiag.vscode-react-native",
+				"burkeholland.simple-react-snippets",
+				"dbaeumer.vscode-eslint",
+				"MS-vsliveshare.vsliveshare",
+				"ms-azuretools.vscode-docker"
 			]
 		},
     "codespaces": {
