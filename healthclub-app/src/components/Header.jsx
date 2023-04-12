@@ -117,7 +117,7 @@ function ResponsiveAppBar() {
                                     <AccountCircleIcon /><Typography textAlign="center">&nbsp;Profile</Typography>
                                 </MenuItem>
                                 <MenuItem key='trips' onClick={goToTrips}>
-                                    <ShareLocationRoundedIcon /><Typography textAlign="center">&nbsp;Trips</Typography>
+                                    <ShareLocationRoundedIcon /><Typography textAlign="center">&nbsp;Class</Typography>
                                 </MenuItem>
                                 <MenuItem key='logout' onClick={handleLogout}>
                                     <LogoutIcon /> <Typography textAlign="center">&nbsp;Logout</Typography>
