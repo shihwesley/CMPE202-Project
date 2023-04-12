@@ -18,7 +18,7 @@ const Footer = () => {
         >
             <Container maxWidth="sm">
                 <Typography variant="body1">
-                    We bring people together
+                    Fitness is the Key
                 </Typography>
                 <Copyright />
             </Container>
